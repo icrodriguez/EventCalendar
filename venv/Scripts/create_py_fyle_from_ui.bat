@@ -1,0 +1,1 @@
+pyuic5.exe -x C:\Users\Birdman\PycharmProjects\Pyqt5/tracker.ui -o C:\Users\Birdman\PycharmProjects\Pyqt5/tracker.py
